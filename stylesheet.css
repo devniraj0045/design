@@ -5,6 +5,11 @@ body{
     background:#eee;    
 }
 
+.container
+{
+    width:100%;
+}
+
 .logo
 {
    text-align: center;
@@ -175,4 +180,13 @@ hr {
 }
 .p{
     margin-top:10px;
+}
+.class{
+    background-color:black;
+}
+.rt{
+    text-align: left;
+}
+.tt{
+    text-align: right;
 }
