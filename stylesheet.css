@@ -31,10 +31,7 @@ body{
 {
 text-align: center;
 }
-.sec
-{
-    border-style:outset;
-}
+
 .name{
     text-align: left;
 }
@@ -43,7 +40,6 @@ p{
 }
 .cont{
     margin-top: 10px;
-    border-style: inset;
 }
 
 
@@ -59,7 +55,7 @@ body{
     margin: 0 0 1rem;
     padding-bottom: 1rem;
     padding-top: .5rem;
-    border-bottom: 1px dotted #e2e2e2;
+ 
     display: -ms-flexbox;
     display: flex;
     -ms-flex-pack: justify;
@@ -91,7 +87,7 @@ hr {
     margin-top: 1rem;
     margin-bottom: 1rem;
     border: 0;
-    border-top: 1px solid rgba(0,0,0,.1);
+   
 }
 
 .text-grey-m2 {
@@ -175,7 +171,7 @@ hr {
 .box
 {
     text-align: right;
-    border-style: dashed;
+   
     
 }
 .p{
