@@ -186,3 +186,15 @@ hr {
 .tt{
     text-align: right;
 }
+
+.rwq
+{
+    border-style: dotted;
+}
+.rt{
+    float: left;
+}
+
+.git{
+    float:right;
+}
